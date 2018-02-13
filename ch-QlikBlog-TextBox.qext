@@ -1,0 +1,9 @@
+{
+	"name" : "QlikBlog TextBox",
+	"description" : "TextBox mit erweiterten Formatierungen",
+	"icon" : "extension",
+	"preview" : "KPI_Bild.png",
+	"type" : "visualization",
+	"version": "0.0.1",
+	"author": "Renato Gerber (renato.gerber@qlikblog.ch)"
+}
